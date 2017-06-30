@@ -1,0 +1,6 @@
+namespace TokenPOC.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}

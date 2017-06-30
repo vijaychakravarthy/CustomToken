@@ -1,0 +1,104 @@
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\obj\Debug\TokenPOC.csprojResolveAssemblyReference.cache
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\roslyn\csc.exe
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\roslyn\System.Collections.Immutable.dll
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\roslyn\vbc.exe
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\roslyn\VBCSCompiler.exe
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\roslyn\VBCSCompiler.exe.config
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\TokenPOC.dll.config
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\TokenPOC.dll
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\TokenPOC.pdb
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\Antlr3.Runtime.dll
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\Microsoft.IdentityModel.Logging.dll
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\Microsoft.IdentityModel.Tokens.dll
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\Microsoft.Web.Infrastructure.dll
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\Newtonsoft.Json.dll
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\System.Net.Http.Formatting.dll
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\System.Web.Helpers.dll
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\System.Web.Http.dll
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\System.Web.Http.WebHost.dll
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\System.Web.Mvc.dll
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\System.Web.Optimization.dll
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\System.Web.Razor.dll
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\System.Web.WebPages.Deployment.dll
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\System.Web.WebPages.dll
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\System.Web.WebPages.Razor.dll
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\WebGrease.dll
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\Microsoft.IdentityModel.Logging.xml
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\Microsoft.IdentityModel.Tokens.xml
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\Newtonsoft.Json.xml
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\System.Net.Http.Formatting.xml
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\System.Web.Helpers.xml
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\System.Web.Http.xml
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\System.Web.Http.WebHost.xml
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\System.Web.Mvc.xml
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\System.Web.Optimization.xml
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\System.Web.Razor.xml
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\System.Web.WebPages.xml
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\System.Web.WebPages.Deployment.xml
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\System.Web.WebPages.Razor.xml
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\bin\Antlr3.Runtime.pdb
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\obj\Debug\TokenPOC.dll
+c:\users\vijay dharmavarapu\documents\visual studio 2015\Projects\TokenPOC\obj\Debug\TokenPOC.pdb
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\roslyn\csc.exe
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\roslyn\vbc.exe
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\TokenPOC.dll.config
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\TokenPOC.dll
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\TokenPOC.pdb
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\Antlr3.Runtime.dll
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\Newtonsoft.Json.dll
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\System.Net.Http.Formatting.dll
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\System.Web.Helpers.dll
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\System.Web.Http.dll
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\System.Web.Http.WebHost.dll
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\System.Web.Mvc.dll
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\System.Web.Optimization.dll
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\System.Web.Razor.dll
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\System.Web.WebPages.dll
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\WebGrease.dll
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\Newtonsoft.Json.xml
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\System.Net.Http.Formatting.xml
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\System.Web.Helpers.xml
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\System.Web.Http.xml
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\System.Web.Http.WebHost.xml
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\System.Web.Mvc.xml
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\System.Web.Optimization.xml
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\System.Web.Razor.xml
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\System.Web.WebPages.xml
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\bin\Antlr3.Runtime.pdb
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\obj\Debug\TokenPOC.csprojResolveAssemblyReference.cache
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\obj\Debug\TokenPOC.dll
+C:\Users\Vijay Dharmavarapu\Documents\Visual Studio 2015\Projects\Token POC\TokenPOC\obj\Debug\TokenPOC.pdb
